@@ -1,0 +1,1 @@
+johan ssh -i "joh1.pem" ec2-user@ec2-3-26-74-147.ap-southeast-2.compute.amazonaws.com
